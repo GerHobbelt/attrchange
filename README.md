@@ -38,3 +38,9 @@ Following are some of the useful addon added to the extensions,
 
 ##### Full Documentation: 
 http://meetselva.github.com/attrchange/
+
+#### References
+
+- http://stackoverflow.com/questions/1397251/event-detect-when-css-property-changed-using-jquery
+- http://stackoverflow.com/questions/20487472/jquery-when-element-becomes-visible
+
